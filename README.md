@@ -1,6 +1,6 @@
-<div style="width:100%; height:200px; overflow:hidden;">
-  <img src="./assets/banner.jpeg" style="width:100%; height:100%; object-fit:cover;" />
-</div>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Banner">
+</p>
 
 <br/>
 
@@ -225,13 +225,9 @@ Web Browser & Testing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>
 
 <b>PostgreSQL</b><br>
-
 Relational Database
-
 </td>
 
-<td align="center">
-&nbsp;
 </td>
 </tr>
 </table>
@@ -245,18 +241,18 @@ Relational Database
 
 ##  ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
-<img align="right" width="50%" src=./assets/coke.jpeg>
+<img align="right" width="46%" src=./assets/coke.jpeg>
 
-  <a href=""><img width="49%" src=./assets/1.jpeg></a>
-  <a href=""><img width="49%" src=./assets/2.jpeg></a>
+  <a href=""><img width="52%" src=./assets/1.jpeg></a>
+  <a href=""><img width="52%" src=./assets/2.jpeg></a>
 
   
 
 ##
 
 <p align="left">
-  <a href=""><img width="24%" src=./assets/3.jpeg></a>
-  <a href=""><img width="24%" src=./assets/4.jpeg></a>
+  <a href=""><img width="25%" src=./assets/3.jpeg></a>
+  <a href=""><img width="26%" src=./assets/4.jpeg></a>
 </p>
 
 <p align="left">
