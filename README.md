@@ -243,16 +243,16 @@ Relational Database
 
 <img align="right" width="46%" src=./assets/coke.jpeg>
 
-  <a href=""><img width="52%" src=./assets/1.jpeg></a>
-  <a href=""><img width="52%" src=./assets/2.jpeg></a>
+  <a href=""><img width="50%" src=./assets/1.jpeg></a>
+  <a href=""><img width="50%" src=./assets/2.jpeg></a>
 
   
 
 ##
 
 <p align="left">
-  <a href=""><img width="25%" src=./assets/3.jpeg></a>
-  <a href=""><img width="26%" src=./assets/4.jpeg></a>
+  <a href=""><img width="23%" src=./assets/3.jpeg></a>
+  <a href=""><img width="24%" src=./assets/4.jpeg></a>
 </p>
 
 <p align="left">
