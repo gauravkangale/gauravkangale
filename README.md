@@ -120,7 +120,7 @@
 
 <br/>
 
-## 🛠️ Tools & Technologies
+## ᴛᴏᴏʟꜱ & ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ
 
 <table>
 <tr>
