@@ -1,53 +1,27 @@
-![nothing](./assets/banner.jpeg)
-
-<p align="center">
-
-  <a href="https://instagram.com/grvua">
-    <img width="34px" alt="Instagram"
-      src="https://img.icons8.com/fluency-systems-regular/48/7A1E2C/instagram-new.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="https://x.com/writtenby_grvua">
-    <img width="34px" alt="X (Twitter)"
-      src="https://img.icons8.com/fluency-systems-regular/48/7A1E2C/twitterx.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="https://linkedin.com/in/gauravkangale">
-    <img width="34px" alt="LinkedIn"
-      src="https://img.icons8.com/fluency-systems-regular/48/7A1E2C/linkedin.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="https://github.com/gauravkangale">
-    <img width="34px" alt="GitHub"
-      src="https://img.icons8.com/fluency-systems-regular/48/7A1E2C/github.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="mailto:writtenby.grvua@gmail.com">
-    <img width="34px" alt="Email"
-      src="https://img.icons8.com/?size=100&id=bxb0wUTtzvtu&format=png&color=7A1E2C"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="https://portfolio-grvua.web.app/">
-    <img width="34px" alt="Portfolio"
-      src="https://img.icons8.com/?size=100&id=JzrxXcjzbNYS&format=png&color=7A1E2C"/>
-  </a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-
-</p>
+<div style="width:100%; height:200px; overflow:hidden;">
+  <img src="./assets/banner.jpeg" style="width:100%; height:100%; object-fit:cover;" />
+</div>
 
 <br/>
 
+<p align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:nowrap;">
+  <a href="https://instagram.com/grvua"><img width="34px" alt="Instagram" src="https://img.icons8.com/fluency-systems-regular/48/800020/instagram-new.png"/></a>
+  <a href="https://x.com/writtenby_grvua"><img width="34px" alt="X (Twitter)" src="https://img.icons8.com/fluency-systems-regular/48/800020/twitterx.png"/></a>
+  <a href="https://linkedin.com/in/gauravkangale"><img width="34px" alt="LinkedIn" src="https://img.icons8.com/fluency-systems-regular/48/800020/linkedin.png"/></a>
+  <a href="https://github.com/gauravkangale"><img width="34px" alt="GitHub" src="https://img.icons8.com/fluency-systems-regular/48/800020/github.png"/></a>
+  <a href="mailto:writtenby.grvua@gmail.com"><img width="34px" alt="Email" src="https://img.icons8.com/?size=100&id=bxb0wUTtzvtu&format=png&color=800020"/></a>
+  <a href="https://portfolio-grvua.web.app/"><img width="34px" alt="Portfolio" src="https://img.icons8.com/?size=100&id=JzrxXcjzbNYS&format=png&color=800020"/></a>
+</p>
+
 <p>
   
+
 ʏᴀʜᴇʟʟᴏᴡ! ɪᴛ'ꜱ ᴀ ᴘʟᴇᴀꜱᴜʀᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ. *ɪ'ᴍ **ɢᴀᴜʀᴀᴠ***, ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ʟᴇᴠᴇʀᴀɢɪɴɢ ᴄ++, ᴘʏᴛʜᴏɴ, ꜱᴡɪꜰᴛ, ꜱQʟ, ʀ, ʀᴜꜱᴛ, ʀᴇᴀᴄᴛ ᴀɴᴅ ʀᴇᴀᴄᴛ ɴᴀᴛɪᴠᴇ ᴛᴏ ᴇɴɢɪɴᴇᴇʀ ʜɪɢʜ-ɪɴᴛᴇɢʀɪᴛʏ ᴍᴏʙɪʟᴇ ꜱʏꜱᴛᴇᴍꜱ
 
 <div>
 
+
+## 
 
 <details>
   <summary> ᴀʙᴏᴜᴛ ᴍᴇ</summary>
@@ -55,8 +29,7 @@
 - 🔭 ꜰɪɴᴅɪɴɢ ɴᴇᴡ ᴘᴀᴛʜꜱ ᴛᴏ ʀᴇᴄᴏɴɴᴇᴄᴛ ᴍʏꜱᴇʟꜰ  
 - 📔 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴇᴠᴇʀʏᴛʜɪɴɢ ɪ ᴄᴀɴ ɢᴇᴛ ᴍʏ ʜᴀɴᴅꜱ ᴏɴ**  
 - 👨‍💻 ᴀʟʟ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀᴛ [ɢʀᴠᴜᴀ](https://github.com/gauravkangale)  
-- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ, ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴀɴᴅ ɴᴏᴅᴇ.ᴊꜱ**  
-- 📨 ꜰɪɴᴅ ᴍᴇ ᴏɴ **writtenby.grvua@gmail.com**
+- 📨 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ **writtenby.grvua@gmail.com**
 
 </details>
   
@@ -143,14 +116,9 @@
 </details>
   
 
+## 
 
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
-</div>
--->
+<br/>
 
 ## 🛠️ Tools & Technologies
 
@@ -269,8 +237,13 @@ Relational Database
 </table>
 
 
+##
 
-## 🔥 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
+<br/>
+
+![gauravkangale's GitHub Stats](https://readme-stats-github.pages.dev/api?username=gauravkangale&theme=light)
+
+##  ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
 <img align="right" width="50%" src=./assets/coke.jpeg>
 
@@ -279,7 +252,7 @@ Relational Database
 
   
 
-## 📘 My top open source projects
+##
 
 <p align="left">
   <a href=""><img width="24%" src=./assets/3.jpeg></a>
@@ -287,5 +260,5 @@ Relational Database
 </p>
 
 <p align="left">
-  <a href="https://github.com/gauravkangale?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/gauravkangale?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-800020?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
