@@ -211,13 +211,13 @@ Statistical Computing
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="45"/><br>
 <b>Notion</b><br>
-Knowledge & Project Management
+Knowledge and Project Management
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="45"/><br>
 <b>Safari</b><br>
-Web Browser & Testing
+Web Browser and Testing
 </td>
 
 <td align="center">
