@@ -305,7 +305,7 @@
 
 <p align="center">
   <span style="font-size:20px; color:#800020;">
-    ≿━━━━༺❀༻━━━━≾
+    ━⋅•⋅⊰∙ʚ˚̣̣̣͙ɞ・❦・ ʚ˚̣̣̣͙ɞ∙⊱⋅•⋅━
   </span>
 </p>
 
