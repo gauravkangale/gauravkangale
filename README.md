@@ -16,7 +16,7 @@
 <p>
   
 
-ʏᴀʜᴇʟʟᴏᴡ! ɪᴛ'ꜱ ᴀ ᴘʟᴇᴀꜱᴜʀᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ. <b style="color: #800020;">ɪ'ᴍ ɢᴀᴜʀᴀᴠ</b>, ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ʟᴇᴠᴇʀᴀɢɪɴɢ ᴄ++, ᴘʏᴛʜᴏɴ, ꜱᴡɪꜰᴛ, ꜱQʟ, ʀ, ʀᴜꜱᴛ, ʀᴇᴀᴄᴛ ᴀɴᴅ ʀᴇᴀᴄᴛ ɴᴀᴛɪᴠᴇ ᴛᴏ ᴇɴɢɪɴᴇᴇʀ ʜɪɢʜ-ɪɴᴛᴇɢʀɪᴛʏ ᴍᴏʙɪʟᴇ ꜱʏꜱᴛᴇᴍꜱ
+ʏᴀʜᴇʟʟᴏᴡ! ɪᴛ'ꜱ ᴀ ᴘʟᴇᴀꜱᴜʀᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ. <b style="color: #800020;">ɪ'ᴍ ɢᴀᴜʀᴀᴠ</b>, ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ʟᴇᴠᴇʀᴀɢɪɴɢ ᴄ++, ᴘʏᴛʜᴏɴ, ꜱᴡɪꜰᴛ, ꜱQʟ, ʀ, ʀᴜꜱᴛ, ʀᴇᴀᴄᴛ ᴀɴᴅ ʀᴇᴀᴄᴛ ɴᴀᴛɪᴠᴇ ᴛᴏ ᴇɴɢɪɴᴇᴇʀ ʜɪɢʜ-ɪɴᴛᴇɢʀɪᴛʏ ᴏᴘᴇʀᴀᴛɪɴɢ ꜱʏꜱᴛᴇᴍꜱ.
 
 <div>
 
@@ -122,7 +122,7 @@
 
 <p align="center">
   <span style="font-size:20px; color:#800020;">
-    ━⋅•⋅⊰∙ʚ˚̣̣̣͙ɞ・𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝓂𝑒𝓃𝓉 & 𝒫𝓇𝑜𝒹𝓊𝒸𝓉𝒾𝓋𝒾𝓉𝓎 𝒯𝑜𝑜𝓁𝓈・ ʚ˚̣̣̣͙ɞ∙⊱⋅•⋅━
+    ━⋅•⋅⊰∙ʚ˚̣̣̣͙ɞ・ᴅᴇᴠᴇʟᴏᴘᴇᴍᴇɴᴛ & ᴘʀᴏᴅᴜᴄᴛɪᴠᴇ ᴛᴏᴏʟꜱ・ ʚ˚̣̣̣͙ɞ∙⊱⋅•⋅━
   </span>
 </p>
 
@@ -256,7 +256,7 @@
 
 <p align="center">
   <span style="font-size:20px; color:#800020;">
-    ━⋅•⋅⊰∙ʚ˚̣̣̣͙ɞ・𝒞𝓊𝓇𝒶𝓉𝑒𝒹 𝒲𝑜𝓇𝓀 𝒶𝓃𝒹 𝒫𝓇𝑜𝒿𝑒𝒸𝓉𝓈・ ʚ˚̣̣̣͙ɞ∙⊱⋅•⋅━
+    ━⋅•⋅⊰∙ʚ˚̣̣̣͙ɞ・ᴄᴜʀᴀᴛᴇᴅ ᴡᴏʀᴋ ᴀɴᴅ ᴘʀᴏᴊᴇᴄᴛꜱ・ ʚ˚̣̣̣͙ɞ∙⊱⋅•⋅━
   </span>
 </p>
 
@@ -265,24 +265,24 @@
 <table>
 <tr>
 <td width="33%">
-<a href="https://portfolio-grvua.web.app/" target="_blank">
+<a href="https://github.com/gauravkangale/qlin" target="_blank">
   <img src="./assets/qlin.jpeg" width="100%">
 </a>
-<br><b style="color: #800020;">𝒬𝓁𝒾𝓃</b>
+<br><b style="color: #800020;">Qʟɪɴ</b>
 </td>
 
 <td width="33%">
-<a href="https://portfolio-grvua.web.app/" target="_blank">
+<a href="https://github.com/gauravkangale/ract-app" target="_blank">
   <img src="./assets/ract.png" width="100%">
 </a>
-<br><b style="color: #800020;">𝑅𝒶𝒸𝓉</b>
+<br><b style="color: #800020;">ʀᴀᴄᴛ</b>
 </td>
 
 <td width="33%">
 <a href="https://portfolio-grvua.web.app/" target="_blank">
 <img src="./assets/portfolio.jpeg" width="100%">
 </a>
-<br><b style="color: #800020;">𝒫𝑜𝓇𝓉𝒻𝑜𝓁𝒾𝑜</b>
+<br><b style="color: #800020;">ᴘᴏʀᴛꜰᴏʟɪᴏ</b>
 </td>
 </tr>
 </table>
@@ -293,7 +293,7 @@
 
 <p align="center">
   <span style="font-size:20px; color:#800020;">
-    ━⋅•⋅⊰∙ʚ˚̣̣̣͙ɞ・𝒢𝐼𝓉𝒽𝓊𝒷 𝒮𝓉𝒶𝓉𝓈・ ʚ˚̣̣̣͙ɞ∙⊱⋅•⋅━
+    ━⋅•⋅⊰∙ʚ˚̣̣̣͙ɞ・ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ・ ʚ˚̣̣̣͙ɞ∙⊱⋅•⋅━
   </span>
 </p>
 
